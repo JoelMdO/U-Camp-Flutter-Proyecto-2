@@ -1,6 +1,6 @@
 # Card Presentation - Resume
 
-A new Flutter project.
+My Resume (CV) on a card as a new Flutter project.
 
 ## Getting Started
 
